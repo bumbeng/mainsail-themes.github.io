@@ -4,7 +4,7 @@
 
 .u-section-1 .u-image-1 {
   min-height: 175px;
-  background-image: linear-gradient(0deg, rgba(173,246,242,0.15), rgba(173,246,242,0.15)), url("/images/background.png");
+  background-image: linear-gradient(0deg, rgba(173,246,242,0.15), rgba(173,246,242,0.15)), url("images/background.png");
   height: auto;
   margin-top: 0;
   margin-bottom: 0;
