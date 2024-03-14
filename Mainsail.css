@@ -507,6 +507,7 @@
   text-transform: uppercase;
   --radius: 10px;
   box-shadow: 5px 5px 20px 0 rgba(0,0,0,0.4);
+  margin: -42px 15px 0 auto;
 }
 
 .u-section-1 .u-list-item-10 {
@@ -1060,6 +1061,6 @@
   .u-section-1 .u-image-11 {
     height: 156px;
   }
-  .u-section-2 .u-sheet-1 {
+}.u-section-2 .u-sheet-1 {
   min-height: 15px;
-  }
+}
