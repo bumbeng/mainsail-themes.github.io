@@ -1061,9 +1061,6 @@
   .u-section-1 .u-image-11 {
     height: 156px;
   }
-}.u-section-2 .u-sheet-1 {
+  .u-section-2 .u-sheet-1 {
   min-height: 15px;
-}.topbar {
-	border-bottom-left-radius: 2em;
-	border-bottom-right-radius: 2em;
-}
+  }
